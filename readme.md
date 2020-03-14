@@ -36,7 +36,7 @@ You can control the start timing of the animation by setting `v-model` attribute
 </template>
 
 <script>
-import { Animation, Keyframe } from './vue-animation-component/index.js'
+import { Animation, Keyframe } from 'vue-animate-component'
 export default {
   components: {
     Animation,
