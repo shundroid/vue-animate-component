@@ -5,13 +5,13 @@
 via yarn:   
 
 ```bash
-$ yarn add vue-animation-component
+$ yarn add vue-animate-component
 ```
 
 via npm:  
 
 ```bash
-$ npm i --save vue-animation-component
+$ npm i --save vue-animate-component
 ```
 
 ## Example
